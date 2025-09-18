@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me
-I'm passionate about building scalable cloud-based solutions and modern web applications. With expertise in Kubernetes, cloud platforms, and scripting, I'm now expanding my skills into full-stack development, particularly focusing on React for frontend projects.
+I'm passionate about building scalable cloud-based solutions and modern web applications. With expertise in Kubernetes, cloud platforms, and scripting, I'm now expanding my skills into full-stack development, particularly focusing on React for frontend projects and Golang for backend.
 
 ---
 
@@ -50,7 +50,7 @@ I'm passionate about building scalable cloud-based solutions and modern web appl
 ## 🎯 Current Focus
 - 🌱 Building responsive web applications with React  
 - 🌐 Exploring serverless architecture and cloud-native technologies  
-- 💡 Experimenting with new frontend libraries and frameworks  
+- 💡 Experimenting with new libraries and frameworks  
 
 ---
 
